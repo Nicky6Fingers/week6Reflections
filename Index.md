@@ -9,3 +9,7 @@ package.json- lets you know the things that you are using for the project that i
 
 function= functions "DO" (addPayroll) notice the camelCase like C# most functions we use will have return value used by doing the __return__ keyword
 Paramaters - parameters are the items __wrong term probably__ that are used in the function (num1 +num2). make the items clear and not single characters.
+Call a function - Call by name, put in the argumnet and the paramaters which kinda act like placeholders. and store the number in a variable.
+Variables- hold values/data, important to use sensible names and use camelCase!
+Display - use the console.log to display the results.
+Const - this is the constant keyword a good example for this is something that isnt usualy changed like a tax rate.
